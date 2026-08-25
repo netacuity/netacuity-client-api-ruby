@@ -1,0 +1,17 @@
+# Gem build artifacts
+*.gem
+*.rbc
+
+# Bundler
+.bundle/
+vendor/bundle
+Gemfile.lock
+
+# RSpec
+coverage/
+.rspec_status
+
+# IDE / OS
+.idea/
+.DS_Store
+Thumbs.db
